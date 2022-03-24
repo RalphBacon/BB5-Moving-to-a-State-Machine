@@ -9,7 +9,7 @@ We really need to code differently if we are to ever create a responsive program
 This video is aimed at beginners, so each step is carefully explained. No skipping ahead! 😁
 
 ► Full sketches (source code) can be found here:  
-https://github.com/RalphBacon/BB5-Moving-to-a-State-Machine
+https://github.com/RalphBacon/BB5-Moving-to-a-State-Machine/tree/main/Sketches  
 
 ► List of all my videos  
 (Special thanks to Michael Kurt Vogel for compiling this)  
