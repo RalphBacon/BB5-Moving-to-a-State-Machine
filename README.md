@@ -2,6 +2,7 @@
 First steps towards coding sketches in a multi-tasking manner. Simple & Easy.
 
 ![Thumbnail](https://user-images.githubusercontent.com/20911308/159871527-1f7a0a82-1e20-4335-8d95-fcd3bcf97494.jpg)  
+Link to video: https://youtu.be/hwEo49yyU88  
 
 We really need to code differently if we are to ever create a responsive program. Sequential execution is sometimes necessary, but often we need to do more than one thing at a time. Here I show the absolute basics in how to get two functions running simultaneously.
 
